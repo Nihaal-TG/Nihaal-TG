@@ -1,9 +1,9 @@
-## Hi, I’m Arun
+## ʜɪ ɪᴀᴍ ɴɪʜᴀᴀʟ
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 
-- **📚 High School Student**
-- **❤️ Telegram**
+- **📚 ʜɪɢʜ sᴄʜᴏᴏʟ sᴛᴜᴅᴇɴᴛ**
+- **❤️ ᴛᴇʟᴇɢʀᴀᴍ**
 
 ## Profile views
 ![Visitor Count](https://profile-counter.glitch.me/{Nihaal-TG}/count.svg)
